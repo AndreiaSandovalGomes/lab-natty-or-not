@@ -1,42 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Minha versão digital em um show de Adriana Calcanhotto: Tecnologia com emoção!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+
+Transformei minha paixão pela música em uma experiência inovadora. Com meu avatar, exploro como a inteligência artificial pode trazer emoção e arte para o digital. Não é só tecnologia, é conexão!
+
+Vamos juntos descobrir como o futuro pode ser tão humano quanto artístico? 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGpt
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Para realizar o projeto, pensei em algo que pudesse gerar emoção e fosse diferenciado de um texto simples. Usei a plataform D-ID para realizar todas as atividades. Primeiro, criei uma AVATAR à partir de um video meu falando algumas frases para identificar padrôes de comportamento. Depois escolhi uma música curta da Adriana Calcanhoto para dar vida ao meu Avatar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi a possibilidade de me ouvir cantando de forma afinada uma müsica que gosto muito com total sincronicidade de lábios.
+
+Abaixo o link para assistir o vídeo
+
+https://studio.d-id.com/share?id=2238e1cdd6864ce87741af0a1ec6408b&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Realmente está difîcil saber o que é real e o que é virtual. É possivel voce estar em mais de um lugar ao mesmo tempo e falar diversas linguas, ter o dom da oratória. A IA agrega qualidade com agilidade no dia a dia profissional.
 
 ### Exemplos e Insigths
 
